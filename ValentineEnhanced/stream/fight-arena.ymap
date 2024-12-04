@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<CMapData>
+	<flags value="2"/>
+	<contentFlags value="65"/>
+	<streamingExtentsMin x="-832.613647" y="396.454651" z="-287.498451"/>
+	<streamingExtentsMax x="-20.525696" y="1215.827698" z="513.907585"/>
+	<entitiesExtentsMin x="-432.613647" y="796.454651" z="112.501549"/>
+	<entitiesExtentsMax x="-420.525696" y="815.827698" z="113.907585"/>
+	<entities>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_03</archetypeName>
+			<flags value="1572897"/>
+			<position x="-432.613647" y="803.060913" z="112.525063"/>
+			<rotation w="0.006943" x="0.037543" y="0.009304" z="-0.999228"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_racesignpost08x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.651703" y="800.791077" z="112.591469"/>
+			<rotation w="0.700394" x="-0.013777" y="0.030180" z="0.712985"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.353119" y="814.123962" z="112.841522"/>
+			<rotation w="0.398272" x="-0.029444" y="0.018491" z="0.916608"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_03</archetypeName>
+			<flags value="1572897"/>
+			<position x="-430.712738" y="805.887817" z="112.801437"/>
+			<rotation w="0.708847" x="0.006019" y="0.034149" z="-0.704510"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-425.171753" y="814.259033" z="113.417091"/>
+			<rotation w="0.437395" x="0.045554" y="0.024299" z="-0.897786"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_02</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.428497" y="796.900818" z="112.511253"/>
+			<rotation w="0.002072" x="0.037752" y="0.006136" z="-0.999266"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp004_p_fort_modular_05</archetypeName>
+			<flags value="1572897"/>
+			<position x="-420.526306" y="798.060425" z="113.387230"/>
+			<rotation w="0.998344" x="-0.007875" y="0.041008" z="-0.039577"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.282898" y="797.314575" z="112.501549"/>
+			<rotation w="0.936688" x="-0.018800" y="0.033308" z="0.348071"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp004_p_fort_modular_05</archetypeName>
+			<flags value="1572897"/>
+			<position x="-420.779968" y="813.958130" z="113.907585"/>
+			<rotation w="0.032579" x="-0.046721" y="-0.003031" z="0.998372"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-420.525696" y="796.454651" z="113.310753"/>
+			<rotation w="0.998944" x="-0.014171" y="0.040485" z="0.016488"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-425.332336" y="797.276550" z="112.924744"/>
+			<rotation w="0.879758" x="0.005506" y="0.040123" z="-0.473694"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.398438" y="806.976196" z="112.687225"/>
+			<rotation w="0.897995" x="-0.025255" y="0.030180" z="0.438243"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-420.760803" y="815.827698" z="113.897705"/>
+			<rotation w="0.004780" x="-0.048270" y="-0.010057" z="0.998772"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_racesignpost08x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.433807" y="810.906311" z="112.762718"/>
+			<rotation w="0.720101" x="-0.040821" y="0.026019" z="0.692178"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>p_stageshelllight_red01x</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.495544" y="804.798706" z="112.631828"/>
+			<rotation w="0.389748" x="-0.038450" y="0.007493" z="0.920088"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_02</archetypeName>
+			<flags value="1572897"/>
+			<position x="-431.620453" y="814.024109" z="112.830811"/>
+			<rotation w="0.697718" x="0.035378" y="0.038883" z="-0.714441"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_02</archetypeName>
+			<flags value="1572897"/>
+			<position x="-425.017029" y="797.257813" z="112.898361"/>
+			<rotation w="0.709133" x="-0.037654" y="0.014559" z="0.703918"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_03</archetypeName>
+			<flags value="1572897"/>
+			<position x="-432.504883" y="808.458496" z="112.674301"/>
+			<rotation w="0.013610" x="0.039096" y="0.009577" z="-0.999097"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_02</archetypeName>
+			<flags value="1572897"/>
+			<position x="-425.287201" y="814.418274" z="113.493340"/>
+			<rotation w="0.998651" x="0.000063" y="0.051630" z="-0.005559"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+		<Item type="CEntityDef">
+			<archetypeName>mp001_p_fort_modular_03</archetypeName>
+			<flags value="1572897"/>
+			<position x="-425.584625" y="805.912659" z="113.149666"/>
+			<rotation w="0.704767" x="0.023159" y="0.053870" z="-0.707012"/>
+			<scaleXY value="1"/>
+			<scaleZ value="1"/>
+			<parentIndex value="-1"/>
+			<lodDist value="500"/>
+			<childLodDist value="500"/>
+			<lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+			<numChildren value="0"/>
+			<ambientOcclusionMultiplier value="255"/>
+			<artificialAmbientOcclusion value="255"/>
+		</Item>
+	</entities>
+</CMapData>
