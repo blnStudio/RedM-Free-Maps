@@ -8,7 +8,7 @@ This repository contains a collection of free maps for RedM, created and maintai
 
 If you need any help or have any questions, feel free to join our Discord server. Our community and support team are always ready to assist you.
 
-[Join our Discord](https://discord.com/invite/MEZRYQVpnt) 💬
+[Join our Discord](https://discord.bln-studio.com/) 💬
 
 ## Contributing
 
